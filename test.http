@@ -1,0 +1,30 @@
+### Obtener todos los productos
+GET http://localhost:8080/producto
+Accept: application/json
+
+### Obtener productos por id
+GET http://localhost:8080/producto/2
+Accept: application/json
+
+### Crear nuevo producto
+POST http://localhost:8080/producto
+Content-Type: application/json
+
+{
+  "nombre": "Empana",
+  "precio": 2500
+}
+
+
+### Actualizar Producto con id = 2
+PUT http://localhost:8080/producto/2
+Content-Type: application/json
+
+{
+  "nombre": "Empanada",
+  "precio": 2500
+}
+
+
+### Eliminar Producto con ID = 1
+DELETE http://localhost:8080/producto/1
