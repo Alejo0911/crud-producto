@@ -15,7 +15,7 @@ La aplicación tiene las siguientes funcionalidades:
 
 - **Spring Boot**: Framework principal para desarrollar la aplicación.
 - **JPA (Java Persistence API)**: Para la gestión de la base de datos.
-- **PostgreSQL**: Base de datos relacional utilizada para almacenar los productos.
+- **mySQL**: Base de datos relacional utilizada para almacenar los productos.
 - **REST API**: Comunicación entre el cliente y el servidor usando el protocolo HTTP.
 - **Visual Studio Code**: Editor utilizado para la implementación.
 - **Rest Client**: Extensión de Visual Studio Code utilizada para probar las peticiones HTTP.
