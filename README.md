@@ -24,7 +24,7 @@ La aplicación tiene las siguientes funcionalidades:
 
 - **JDK 17 o superior**: Para compilar y ejecutar la aplicación.
 - **Maven**: Para manejar las dependencias y la compilación.
-- **PostgreSQL**: Para la base de datos.
+- **mySQL**: Para la base de datos.
 
 ## Configuración del Proyecto
 
